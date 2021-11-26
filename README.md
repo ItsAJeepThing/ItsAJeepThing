@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ItsAJeepThing
-- 👀 I am a teacher of Technology/Computers, 25+ years.
-- 🌱 I’m currently medically retired.
-- 💞️ I’m looking to research the intricacies of Blockchain, Crypto, NFT.
-- 📫 How to reach me on Twitter: @ItsAJeepThing
+- Hi, I’m @ItsAJeepThing
+- I am a teacher of Technology/Computers, 25+ years.
+- 
+- I’m researching the intricacies of Blockchain, Crypto, NFT.
+- Twitter: @ItsAJeepThing
 
 <!---
 ItsAJeepThing/ItsAJeepThing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
